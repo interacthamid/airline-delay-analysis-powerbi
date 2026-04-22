@@ -2,8 +2,7 @@ Airline Delay Analytics (Lufthansa Case Study)
 ![Dashboard](Dashboard.png)
 
 📌 Overview
-This project analyzes Lufthansa flight delays and cancellations using Power BI.
-It focuses on identifying operational inefficiencies, delay patterns, and business optimization opportunities.
+This project analyzes Lufthansa flight delays and cancellations using Power BI to identify operational inefficiencies and optimization opportunities.
 
 🎯 Project Objectives
 •	Analyze flight delays and cancellations
